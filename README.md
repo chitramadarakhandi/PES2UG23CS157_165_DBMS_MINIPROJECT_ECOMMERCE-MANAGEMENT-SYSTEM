@@ -1,6 +1,4 @@
-                  E-Commerce Management System
- 
-                   DBMS Mini Project
+E- Commerce Management System 
 
  Team Members
  Deesha C – PES2UG23CS165
